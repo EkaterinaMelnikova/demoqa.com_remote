@@ -24,8 +24,8 @@ public class TestBase {
         Configuration.browserSize = "1920x1080";
         Configuration.baseUrl = "https://yandex.ru";
         Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
-        Configuration.browser = "chrome";
-        Configuration.timeout = 10000;
+        //Configuration.browser = "chrome";
+        //Configuration.timeout = 10000;
         //        Configuration.holdBrowserOpen = true;
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
@@ -50,4 +50,5 @@ public class TestBase {
         com.kimo.helpers.Attach.pageSource();
         com.kimo.helpers.Attach.browserConsoleLogs();
     }
+
 }
