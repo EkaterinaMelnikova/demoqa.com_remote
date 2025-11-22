@@ -1,0 +1,7 @@
+https://jenkins.autotests.cloud/job/Kimo_demoqa/configure
+
+Repository: https://github.com/EkaterinaMelnikova/demoqa.com_remote.git (SCM > Git)
+Branch: */main (SCM > Branches to build)
+Gradle Version: Gradle 8.12 (Build Steps > Invoke Gradle)
+Command: clean demoqa_test(Build Steps > Tasks)
+Allure Path: build/allure-results/ (Allure Report)

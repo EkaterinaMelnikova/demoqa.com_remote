@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "demoqa",
+    "environment": "kimo.com",
+    "comment": "some comment",
+    "reportLink": "",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "build/allure-results",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "8339785525:AAHN5yrcA9Qgkp8hIw0zmyyS58FjSbhZR3g",
+    "chat": "-1003407798329",
+    "replyTo": ""
+  }
+}
