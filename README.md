@@ -64,7 +64,7 @@ Allure-отчет включает в себя:
 * видео выполнения автотеста.
 
 <p align="center">
-<img title="Allure Overview" src="images/screenshots/allure_report.png">
+<img title="Allure Overview" src="images/screenshots/allere_report.png">
 </p>
 
 <p align="center">
