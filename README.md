@@ -12,7 +12,7 @@
 ## :open_book: Описание
 В проекте реализованы UI тесты для формы регистрации https://demoqa.com/automation-practice-form
 
-<img width="100%" style="vertical-align:middle" title="demoqa.com/automation-practice-form" src="images/screenshots/practiceForm.png">
+<img width="100%" style="vertical-align:middle" title="demoqa.com/automation-practice-form" src="images/screenshots/2025-11-25_11-09-51.png">
 
 ## :computer: Использованный стек технологий
 
