@@ -1,5 +1,5 @@
-# Проект по автоматизации тестирования приложения Яндекс.Финансы
-<img width="100%" style="vertical-align:middle" title="yandex.ru/finance" src="images/screenshots/yandex_finance.png">
+# Проект по автоматизации тестирования приложения demoqa.com
+<img width="100%" style="vertical-align:middle" title="demoqa.com" src="images/screenshots/demoqa.png">
 
 ## :pushpin: Содержание:
 
