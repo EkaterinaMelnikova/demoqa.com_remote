@@ -37,7 +37,7 @@
 
 ### Запуск из терминала
 ```
-./gradlew finance_test
+./gradlew demoqa_test
 ```
 
 ## <img width="4%" style="vertical-align:middle" title="Jenkins" src="images/logo/Jenkins.svg"> Сборка в Jenkins
