@@ -50,9 +50,6 @@
 - **Allure Path:** `build/allure-results/` *(Allure Report)*
 
 
-<p align="center">
-<img title="Jenkins Build" src="images/screenshots/jenkins.png">
-</p>
 
 ## <img width="4%" style="vertical-align:middle" title="Allure Report" src="images/logo/AllureReport.svg"> Пример Allure-отчета
 ### Overview
